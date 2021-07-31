@@ -9,8 +9,8 @@ This repository contains 3 files, namely:
 
 3 PrimeNetConfig.py #Contains all configuration and utility operations here to facilitate training.
 
-Python 3.6.9
-Keras 2.2.4
+Python 3.6.9,
+Keras 2.2.4,
 Tensorflow 2.3.1 
 
 To run:
